@@ -1,0 +1,9 @@
+# Ignore all target directories in any subfolder
+**/target/
+
+# Ignore lock files if you don't want them (usually fine to keep for apps, but clutter for exercises)
+# **/Cargo.lock
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
